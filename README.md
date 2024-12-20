@@ -1,7 +1,7 @@
 # MusicLM PyTorch
 
 <p align="center">
-  <img src="MusicLM.png" alt="MusicLM" style="display:block; margin:auto; width:920px;" />
+  <img src="MusicLM.png" alt="MusicLM" style="display:block; margin:auto; width:820px;" />
 </p>
 
 PyTorch implementation of MusicLM.
