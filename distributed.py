@@ -5,6 +5,8 @@ import torch.distributed as dist
 
 from einops import rearrange
 
+from musiclm import exists
+
 
 def all_gather_same_dim(t):
     """
